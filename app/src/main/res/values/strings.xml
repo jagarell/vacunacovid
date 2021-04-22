@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VacunaCovid</string>
+    <string name="hello_word">Hola Alex</string>
 </resources>
